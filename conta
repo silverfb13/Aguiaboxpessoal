@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "123456",
-        "password": "123456",
+        "username": "K8N7fg",
+        "password": "7E5hyV",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "p2z.me",
+        "url": "ldns.live",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
