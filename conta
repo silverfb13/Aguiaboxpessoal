@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "K8N7fg",
-        "password": "7E5hyV",
+        "username": "941413",
+        "password": "43311",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "ldns.live",
+        "url": "nyye.online",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
