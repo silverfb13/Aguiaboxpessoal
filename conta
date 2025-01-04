@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "saulofont",
-        "password": "J5Y3fWs2hRja",
+        "username": "tiaguinho2015",
+        "password": "tiaguinho2015",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "voz.one",
+        "url": "asxe.net",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
